@@ -1,60 +1,60 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Sergio Valencia",
+    "role": "Frontend Developer wannabe",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like frontend development and like to learn about new technologies, in my free time i like to drink cofee and play chest.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/sergio-valencia-aguirre-2a327a7a/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/shecho",
           "className":"fa fa-github"
         },
         {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
+          "name":"facebook",
+          "url":"https://www.facebook.com/sergio.valenciaaguirre",
+          "className":"fa fa-facebook"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am currently final year student at SENA in Information Technology. I am a self taught Full Stack Web Developer, currently diving deeper into Frontent frameworks/libraries like React, VUE Agular/IONIC. I believe that to be successful in life, you dont need talent, just need to work hard.",
+    "address":"Colombia",
+    "website":"",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
+        "UniversityName":"SENA",
         "specialization":"Some specialization",
         "MonthOfPassing":"Aug",
         "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Universiad de Envigado",
+        "specialization":"Ingenieria de sistemas (no Finished)",
+        "MonthOfPassing":"",
+        "YearOfPassing":"",
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"CWTI",
+        "specialization":"Frontend Web Developer",
+        "MonthOfLeaving":"Current",
+        "YearOfLeaving":"",
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Emergia",
+        "specialization":"Trainner manager",
+        "MonthOfLeaving":"Aprill",
+        "YearOfLeaving":"2017",
+        "Achievements":""
       }
     ],
     "skillsDescription":"Your skills here",
@@ -66,39 +66,43 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"Vue(Learnning)"
+      },
+      {
+        "skillname":"Agnular"
+      },
+      
+      {
+        "skillname":"React"
       }
+
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Mapa Interactivo",
+        "description":"Intecractive Map",
+        "imgurl":"images/portfolio/project.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
-      },
-      {
-        "name":"project3",
-        "description":"mobileapp",  
+        "name":"Aurora Development",
+        "description":"Developer website",
         "imgurl":"images/portfolio/project2.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":" Big Boy Blaze",
+        "description":"Barbershop page",  
+        "imgurl":"images/portfolio/project3.png"
       }
+    
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Personal slogan",
+        "name":"COBAC"
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Creating Orgasm by Awesome Coding",
+        "name":`COBAC:`
       }
     ]
   }
