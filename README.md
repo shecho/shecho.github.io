@@ -1,2 +1,2 @@
 
-A simple SPA Portfolio. Juat my personal resume
+A simple SPA Portfolio. Just my personal resume
