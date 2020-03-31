@@ -28,8 +28,8 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"SENA",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
+        "specialization":"",
+        "MonthOfPassing":"",
         "YearOfPassing":"2020",
         "Achievements":""
       },
