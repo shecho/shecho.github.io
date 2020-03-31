@@ -1,9 +1,9 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Sergio Valencia",
-    "role": "Frontend Developer wannabe",
-    "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
+    "role": "Frontend Developer Student",
+    "linkedinId":"https://www.linkedin.com/in/sergio-valencia-aguirre-2a327a7a/",
+    "skypeid": "",
     "roleDescription": "I like frontend development and like to learn about new technologies, in my free time i like to drink cofee and play chest.",
     "socialLinks":[
         {
@@ -22,13 +22,13 @@ let resumeData = {
           "className":"fa fa-facebook"
         }
       ],
-    "aboutme":"I am currently final year student at SENA in Information Technology. I am a self taught Full Stack Web Developer, currently diving deeper into Frontent frameworks/libraries like React, VUE Agular/IONIC. I believe that to be successful in life, you dont need talent, just need to work hard.",
+    "aboutme":"I am currently a final year student at SENA in Information Technology. I am a self taught Full Stack Web Developer, currently diving deeper into Frontent frameworks/libraries like React, VUE Agular/IONIC. I believe that to be successful in life, you dont need talent, just need to work hard.",
     "address":"Colombia",
     "website":"",
     "education":[
       {
         "UniversityName":"SENA",
-        "specialization":"",
+        "specialization":"Administración y desarrolo de Sistemas Informáticos",
         "MonthOfPassing":"",
         "YearOfPassing":"2020",
         "Achievements":""
